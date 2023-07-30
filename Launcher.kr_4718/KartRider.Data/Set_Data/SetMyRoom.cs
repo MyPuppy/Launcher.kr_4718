@@ -9,7 +9,7 @@ namespace Set_Data
 {
     public static class SetMyRoom
     {
-        public static short MyRoom = 0;
+        public static short MyRoom = 38;
         public static byte MyRoomBGM = 0;
         public static byte UseRoomPwd = 0;
         public static byte UseItemPwd = 0;
